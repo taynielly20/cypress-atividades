@@ -2,7 +2,7 @@
 
 describe('Tarefa', () => {
     beforeEach(() => {
-        cy.visit('https://api.new.mentorama.com.br/storage/media-files/QA1/M4/tarefa_1.html')
+        cy.visit('')
     })
 
     const nome = "meu nome"
